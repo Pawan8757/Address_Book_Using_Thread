@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Address_Book_Using_Thread\Address_Book_Using_Thread\bin\Debug\net6.0\Address_Book_Using_Thread.exe
+C:\Users\DELL\source\repos\Address_Book_Using_Thread\Address_Book_Using_Thread\bin\Debug\net6.0\Address_Book_Using_Thread.deps.json
+C:\Users\DELL\source\repos\Address_Book_Using_Thread\Address_Book_Using_Thread\bin\Debug\net6.0\Address_Book_Using_Thread.runtimeconfig.json
+C:\Users\DELL\source\repos\Address_Book_Using_Thread\Address_Book_Using_Thread\bin\Debug\net6.0\Address_Book_Using_Thread.dll
+C:\Users\DELL\source\repos\Address_Book_Using_Thread\Address_Book_Using_Thread\bin\Debug\net6.0\Address_Book_Using_Thread.pdb
+C:\Users\DELL\source\repos\Address_Book_Using_Thread\Address_Book_Using_Thread\obj\Debug\net6.0\Address_Book_Using_Thread.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Address_Book_Using_Thread\Address_Book_Using_Thread\obj\Debug\net6.0\Address_Book_Using_Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Address_Book_Using_Thread\Address_Book_Using_Thread\obj\Debug\net6.0\Address_Book_Using_Thread.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Address_Book_Using_Thread\Address_Book_Using_Thread\obj\Debug\net6.0\Address_Book_Using_Thread.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Address_Book_Using_Thread\Address_Book_Using_Thread\obj\Debug\net6.0\Address_Book_Using_Thread.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Address_Book_Using_Thread\Address_Book_Using_Thread\obj\Debug\net6.0\Address_Book_Using_Thread.dll
+C:\Users\DELL\source\repos\Address_Book_Using_Thread\Address_Book_Using_Thread\obj\Debug\net6.0\refint\Address_Book_Using_Thread.dll
+C:\Users\DELL\source\repos\Address_Book_Using_Thread\Address_Book_Using_Thread\obj\Debug\net6.0\Address_Book_Using_Thread.pdb
+C:\Users\DELL\source\repos\Address_Book_Using_Thread\Address_Book_Using_Thread\obj\Debug\net6.0\Address_Book_Using_Thread.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Address_Book_Using_Thread\Address_Book_Using_Thread\obj\Debug\net6.0\ref\Address_Book_Using_Thread.dll
