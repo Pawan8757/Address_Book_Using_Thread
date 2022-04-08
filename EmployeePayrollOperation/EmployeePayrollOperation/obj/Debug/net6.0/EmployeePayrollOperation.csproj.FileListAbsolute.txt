@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\EmployeePayrollOperation\EmployeePayrollOperation\obj\Debug\net6.0\EmployeePayrollOperation.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EmployeePayrollOperation\EmployeePayrollOperation\obj\Debug\net6.0\EmployeePayrollOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\EmployeePayrollOperation\EmployeePayrollOperation\obj\Debug\net6.0\EmployeePayrollOperation.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\EmployeePayrollOperation\EmployeePayrollOperation\obj\Debug\net6.0\EmployeePayrollOperation.AssemblyInfo.cs
+C:\Users\DELL\source\repos\EmployeePayrollOperation\EmployeePayrollOperation\obj\Debug\net6.0\EmployeePayrollOperation.csproj.CoreCompileInputs.cache
